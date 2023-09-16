@@ -1,0 +1,105 @@
+{
+	"lights" :
+	[
+		{
+			"name" : "SL SM Front Left",
+			"light_class" : "SSL",
+			"lamp_class" : "SSL_Lamp",
+			"lamp_side" : "Left",
+			"x_segment" : 3,
+			"y_segment" : 3,
+			"position" : "1,2",
+			"pass_threshold" : 0.5
+		},
+		{
+			"name" : "SL SM Front Right",
+			"light_class" : "SSL",
+			"lamp_class" : "SSL_Lamp",
+			"lamp_side" : "Right",
+			"x_segment" : 3,
+			"y_segment" : 3,
+			"position" : "1,0",
+			"pass_threshold" : 0.5
+		},
+		{
+			"name" : "SL Front Left",
+			"light_class" : "SL",
+			"lamp_class" : "SL_Lamp",
+			"lamp_side" : "Left",
+			"x_segment" : 3,
+			"y_segment" : 3,
+			"position" : "0,2",
+			"pass_threshold" : 0.5
+		},
+		{
+			"name" : "SL Front Right",
+			"light_class" : "SL",
+			"lamp_class" : "SL_Lamp",
+			"lamp_side" : "Right",
+			"x_segment" : 3,
+			"y_segment" : 3,
+			"position" : "0,0",
+			"pass_threshold" : 0.5
+		},
+		{
+			"name" : "Front Left DRL",
+			"light_class" : "DRL",
+			"lamp_class" : "DRL_Lamp",
+			"lamp_side" : "Left",
+			"x_segment" : 3,
+			"y_segment" : 3,
+			"position" : "0,2",
+			"pass_threshold" : 0.5
+		},
+		{
+			"name" : "Front Right DRL",
+			"light_class" : "DRL",
+			"lamp_class" : "DRL_Lamp",
+			"lamp_side" : "Right",
+			"x_segment" : 3,
+			"y_segment" : 3,
+			"position" : "0,0",
+			"pass_threshold" : 0.5
+		},
+		{
+			"name" : "Rear Left Backlight",
+			"light_class" : "BL",
+			"lamp_class" : "BL_Lamp",
+			"lamp_side" : "Left",
+			"x_segment" : 3,
+			"y_segment" : 3,
+			"position" : "0,0",
+			"pass_threshold" : 0.5
+		},
+		{
+			"name" : "Rear Right Backlight",
+			"light_class" : "BL",
+			"lamp_class" : "BL_Lamp",
+			"lamp_side" : "Right",
+			"x_segment" : 3,
+			"y_segment" : 3,
+			"position" : "0,2",
+			"pass_threshold" : 0.5
+		},
+		{
+			"name" : "Rear Left Signal",
+			"light_class" : "SL",
+			"lamp_class" : "SL_Lamp",
+			"lamp_side" : "Left",
+			"x_segment" : 3,
+			"y_segment" : 3,
+			"position" : "1,2",
+			"pass_threshold" : 0.5
+		},
+		{
+			"name" : "Rear Right Signal",
+			"light_class" : "SL",
+			"lamp_class" : "SL_Lamp",
+			"lamp_side" : "Right",
+			"x_segment" : 3,
+			"y_segment" : 3,
+			"position" : "1,0",
+			"pass_threshold" : 0.5
+		}
+	]
+}

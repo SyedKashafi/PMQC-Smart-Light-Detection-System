@@ -1,0 +1,44 @@
+{
+  "source": "rtsp://admin:Qwer_1357@192.168.1.4/profile2/media.smp",
+  "camera_testing": false,
+  "frame_duration": 0.5,
+  "center_lights": [
+    "HM",
+    "LP"
+  ],
+  "logo": [
+    "PERODUA",
+    "TOYOTA",
+    "DAIHATSU"
+  ],
+  "signal_lights_class": [
+    "SL",
+    "SSL",
+    "SEQ"
+  ],
+  "show_process_time": true,
+  "check_per_frame": false,
+  "show_annotator": false,
+  "show_appearance_rate": false,
+  "show_grid_value": false,
+  "debug_end_time_webcam": 0,
+  "debug_end_time_video": 0,
+  "enable_delay": false,
+  "car_expired_duration": 1.5,
+  "lamps_expired_duration": 0,
+  "summary_expired_duration": 60,
+  "object_tracking": false,
+  "camera_width": 1280,
+  "camera_height": 720,
+  "camera_fps": 10,
+  "device": "",
+  "dnn": false,
+  "imgsz": [
+    1280,
+    1280
+  ],
+  "half": true,
+  "general_conf_thres": 0.8,
+  "specific_conf_thres": 0.5,
+  "iou_thres": 0.01
+}

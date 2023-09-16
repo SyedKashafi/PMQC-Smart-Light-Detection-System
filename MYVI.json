@@ -1,0 +1,226 @@
+{
+  "front_lights": [
+    {
+      "name": "SSL Front Left",
+      "light_class": "SSL",
+      "lamp_class": "SSL_Lamp",
+      "lamp_side": "Left",
+      "x_segment": 2,
+      "y_segment": 1,
+      "position": "0,0",
+      "conf_threshold": 0.65,
+      "appearance_threshold": 0.4
+    },
+    {
+      "name": "SSL Front Right",
+      "light_class": "SSL",
+      "lamp_class": "SSL_Lamp",
+      "lamp_side": "Right",
+      "x_segment": 2,
+      "y_segment": 1,
+      "position": "1,0",
+      "conf_threshold": 0.65,
+      "appearance_threshold": 0.4
+    },
+    {
+      "name": "SL Front Left",
+      "light_class": "SL",
+      "lamp_class": "SL_Lamp",
+      "lamp_side": "Left",
+      "x_segment": 2,
+      "y_segment": 1,
+      "position": "0,0",
+      "conf_threshold": 0.65,
+      "appearance_threshold": 0.4
+    },
+    {
+      "name": "SL Front Right",
+      "light_class": "SL",
+      "lamp_class": "SL_Lamp",
+      "lamp_side": "Right",
+      "x_segment": 2,
+      "y_segment": 1,
+      "position": "1,0",
+      "conf_threshold": 0.65,
+      "appearance_threshold": 0.4
+    },
+    {
+      "name": "CL Front Left",
+      "light_class": "CL",
+      "lamp_class": "CL_Lamp",
+      "lamp_side": "Left",
+      "x_segment": 2,
+      "y_segment": 1,
+      "position": "0,0",
+      "conf_threshold": 0.75,
+      "appearance_threshold": 0.75
+    },
+    {
+      "name": "CL Front Right",
+      "light_class": "CL",
+      "lamp_class": "CL_Lamp",
+      "lamp_side": "Right",
+      "x_segment": 2,
+      "y_segment": 1,
+      "position": "1,0",
+      "conf_threshold": 0.75,
+      "appearance_threshold": 0.75
+    },
+    {
+      "name": "HL Front Left",
+      "light_class": "HL",
+      "lamp_class": "HL_Lamp",
+      "lamp_side": "Left",
+      "x_segment": 2,
+      "y_segment": 1,
+      "position": "0,0",
+      "conf_threshold": 0.75,
+      "appearance_threshold": 0.75
+    },
+    {
+      "name": "HL Front Right",
+      "light_class": "HL",
+      "lamp_class": "HL_Lamp",
+      "lamp_side": "Right",
+      "x_segment": 2,
+      "y_segment": 1,
+      "position": "1,0",
+      "conf_threshold": 0.75,
+      "appearance_threshold": 0.75
+    },
+    {
+      "name": "DRL Front Left",
+      "light_class": "DRL",
+      "lamp_class": "DRL_Lamp",
+      "lamp_side": "Left",
+      "x_segment": 2,
+      "y_segment": 1,
+      "position": "0,0",
+      "conf_threshold": 0.75,
+      "appearance_threshold": 0.75
+    },
+    {
+      "name": "DRL Front Right",
+      "light_class": "DRL",
+      "lamp_class": "DRL_Lamp",
+      "lamp_side": "Right",
+      "x_segment": 2,
+      "y_segment": 1,
+      "position": "1,0",
+      "conf_threshold": 0.75,
+      "appearance_threshold": 0.75
+    }
+  ],
+  "rear_lights": [
+    {
+      "name": "HM Rear Center",
+      "light_class": "HM",
+      "lamp_class": "HM_Lamp",
+      "lamp_side": "Center",
+      "x_segment": 1,
+      "y_segment": 1,
+      "position": "0,0",
+      "conf_threshold": 0.75,
+      "appearance_threshold": 0.75
+    },
+    {
+      "name": "SL Rear Left",
+      "light_class": "SL",
+      "lamp_class": "SL_Lamp",
+      "lamp_side": "Left",
+      "x_segment": 2,
+      "y_segment": 1,
+      "position": "0,0",
+      "conf_threshold": 0.75,
+      "appearance_threshold": 0.4
+    },
+    {
+      "name": "SL Rear Right",
+      "light_class": "SL",
+      "lamp_class": "SL_Lamp",
+      "lamp_side": "Right",
+      "x_segment": 2,
+      "y_segment": 1,
+      "position": "1,0",
+      "conf_threshold": 0.75,
+      "appearance_threshold": 0.4
+    },
+    {
+      "name": "WL Rear Left",
+      "light_class": "WL",
+      "lamp_class": "WL_Lamp",
+      "lamp_side": "Left",
+      "x_segment": 2,
+      "y_segment": 1,
+      "position": "0,0",
+      "conf_threshold": 0.75,
+      "appearance_threshold": 0.75
+    },
+    {
+      "name": "WL Rear Right",
+      "light_class": "WL",
+      "lamp_class": "WL_Lamp",
+      "lamp_side": "Right",
+      "x_segment": 2,
+      "y_segment": 1,
+      "position": "1,0",
+      "conf_threshold": 0.75,
+      "appearance_threshold": 0.75
+    },
+    {
+      "name": "BL Rear Left",
+      "light_class": "BL",
+      "lamp_class": "BL_Lamp",
+      "lamp_side": "Left",
+      "x_segment": 2,
+      "y_segment": 1,
+      "position": "0,0",
+      "conf_threshold": 0.65,
+      "appearance_threshold": 0.65
+    },
+    {
+      "name": "BL Rear Right",
+      "light_class": "BL",
+      "lamp_class": "BL_Lamp",
+      "lamp_side": "Right",
+      "x_segment": 2,
+      "y_segment": 1,
+      "position": "1,0",
+      "conf_threshold": 0.65,
+      "appearance_threshold": 0.65
+    },
+    {
+      "name": "RL Rear Left",
+      "light_class": "RL",
+      "lamp_class": "RL_Lamp",
+      "lamp_side": "Left",
+      "x_segment": 2,
+      "y_segment": 1,
+      "position": "0,0",
+      "conf_threshold": 0.65,
+      "appearance_threshold": 0.65
+    },
+    {
+      "name": "RL Rear Right",
+      "light_class": "RL",
+      "lamp_class": "RL_Lamp",
+      "lamp_side": "Right",
+      "x_segment": 2,
+      "y_segment": 1,
+      "position": "1,0",
+      "conf_threshold": 0.65,
+      "appearance_threshold": 0.65
+    },
+    {
+      "name": "LP Rear Center",
+      "light_class": "LP",
+      "lamp_class": "LP_Lamp",
+      "lamp_side": "Center",
+      "x_segment": 1,
+      "y_segment": 1,
+      "position": "0,0",
+      "conf_threshold": 0.75,
+      "appearance_threshold": 0.75
+    }
+  ]
+}
